@@ -31,7 +31,7 @@ function Contact() {
       );
   };
   return (
-    <div className='vh-100 py-5' id='contact'>
+    <div className='py-5' id='contact'>
       <div className='container'>
         <h2 className='mb-4 pt-5 border-bottom border-info'>Connect with me</h2>
         <div className='d-flex flex-wrap justify-content-center align-items-center gap-3 p-5'>
