@@ -46,7 +46,7 @@ function Skills() {
           >
             <div className='d-flex align-items-center'>
               <SiDjango size={50} className='me-3' />
-              <h4 className='flex-grow-1'>DJANGO</h4>
+              <h4 className='flex-grow-1'>Django</h4>
               <AiOutlineArrowRight size={25} />
             </div>
           </div>
