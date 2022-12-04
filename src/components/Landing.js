@@ -22,7 +22,7 @@ function Landing() {
         </h1>
         <p className='desc lead text-center mb-3 animate__animated animate__bounceInRight'>
           My fullname is Ian Krezelvent Agtarap. I study at Baguio College of
-          Technology and finished training at Uplift code camp. I'm a junior
+          Technology and finished training at Uplift Code Camp. I'm a junior
           Fullstack MERN developer and looking forward to collaborate with you.
         </p>
         <a
