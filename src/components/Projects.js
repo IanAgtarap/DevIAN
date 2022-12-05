@@ -32,6 +32,15 @@ function Projects() {
                     dynamic.
                   </p>
                   <a
+                    href='https://github.com/IanAgtarap/MagicSquare'
+                    className='text-decoration-none text-info'
+                    target='_blank'
+                    rel='noreferrer'
+                  >
+                    View code
+                  </a>
+                  <hr />
+                  <a
                     href='https://ianagtarap.github.io/MagicSquare/'
                     className='fs-4 text-decoration-none text-info'
                     target='_blank'
@@ -65,6 +74,15 @@ function Projects() {
                     the development fast while having a short period of time.
                   </p>
                   <a
+                    href='https://github.com/IanAgtarap/sim_registration'
+                    className='text-decoration-none text-info'
+                    target='_blank'
+                    rel='noreferrer'
+                  >
+                    View code
+                  </a>
+                  <hr />
+                  <a
                     href='https://sim-registration.vercel.app/'
                     className='fs-4 text-decoration-none text-info'
                     target='_blank'
@@ -96,6 +114,15 @@ function Projects() {
                     CSS. Here is the part where I'm just getting started in web
                     development. Never forget your first!
                   </p>
+                  <a
+                    href='https://github.com/IanAgtarap/portfolio-v1'
+                    className='text-decoration-none text-info'
+                    target='_blank'
+                    rel='noreferrer'
+                  >
+                    View code
+                  </a>
+                  <hr />
                   <a
                     href='https://porfolio-v1-five.vercel.app/'
                     className='fs-4 text-decoration-none text-info'
@@ -131,6 +158,15 @@ function Projects() {
                     being the team lead made my job was to answer the merge
                     requests made by my team such as fixing conflicts.
                   </p>
+                  <a
+                    href='https://github.com/IanAgtarap/projectic'
+                    className='text-decoration-none text-info'
+                    target='_blank'
+                    rel='noreferrer'
+                  >
+                    View code
+                  </a>
+                  <hr />
                   <a
                     href='https://projectic.vercel.app/'
                     className='fs-4 text-decoration-none text-info'
