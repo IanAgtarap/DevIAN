@@ -1,5 +1,5 @@
 import profile from '../assets/me.jpg';
-import resume from '../assets/Ian_Agtarap.pdf';
+import resume from '../assets/Ian_Agtarap_Resume.pdf';
 
 function Landing() {
   return (
