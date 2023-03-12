@@ -27,7 +27,7 @@ function Landing() {
         </p>
         <a
           className='btn btn-info animate__animated animate__bounceInUp text-white'
-          href={resume}
+          href={'https://flowcv.com/resume/qpuqr2as41'}
           download
           rel='noopener noreferrer'
           target='_blank'
